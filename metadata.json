@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Web",
+  "description": "An interactive, fully functional WhatsApp Web clone with customizable contact personalities powered by Gemini AI, featuring localized chat persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
